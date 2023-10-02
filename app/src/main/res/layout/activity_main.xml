@@ -29,11 +29,11 @@
                 android:layout_width="wrap_content"
                 android:layout_height="34dp"
                 android:layout_weight="1"
-                android:background="#A33737"
+                android:background="#073DDF"
                 android:text="KOT A TO 4E ON"
                 android:textAlignment="center"
                 android:textAllCaps="false"
-                android:textColor="#BFD68E21"
+                android:textColor="#BF3AEC09"
                 android:textSize="20sp"
                 android:textStyle="bold|italic"
                 android:translationY="80dp" />
@@ -86,7 +86,7 @@
                 android:background="#7C0A7C"
                 android:text="A TUT NE KOT XAXA"
                 android:textAlignment="center"
-                android:textColor="#2C1753"
+                android:textColor="#EF9B0A"
                 android:textSize="20sp"
                 android:textStyle="bold|italic"
                 android:translationY="80dp" />
